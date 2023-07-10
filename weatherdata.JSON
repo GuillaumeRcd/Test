@@ -1,0 +1,23 @@
+[{
+    "date": "2023-07-08",
+    "temperature": 28,
+    "humidity": 40,
+    "precipitation": 0,
+    "wind_speed": 5
+},
+{
+    "date": "2023-07-07",
+    "temperature": 25,
+    "humidity": 45,
+    "precipitation": 10,
+    "wind_speed": 10
+},
+{
+    "date": "2023-07-06",
+    "temperature": 30,
+    "humidity": 35,
+    "precipitation": 15,
+    "wind_speed": 15
+}
+]
+    
